@@ -1,0 +1,12 @@
+{
+  "expected_title": "GUVI | Learn to code in your native language",
+  "valid_creds": {
+    "email": "student_success@example.com",
+    "password": "SecurePassword123!"
+  },
+  "invalid_creds": {
+    "email": "corrupted_user@wrongdomain.org",
+    "password": "FakePassword999"
+  },
+  "menu_items": ["Courses", "LIVE Classes", "Practice"]
+}
